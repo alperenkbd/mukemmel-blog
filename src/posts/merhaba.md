@@ -1,1 +1,1 @@
-Bu benim ilk blog yazım.
+Bu benim ikinci blog yazım.
