@@ -1,0 +1,1 @@
+yazilim kısmının 2. blog yazisi

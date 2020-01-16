@@ -7,10 +7,10 @@ import ReactMarkdown from "react-markdown";
 const Home = ({ posts }) => (
   <div className="container">
     <Head>
-      <title>Home</title>
+      <title>Alperen Kabadayı</title>
       <link rel="icon" href="/favicon.ico" />
-    </Head>
-
+        </Head>
+   
     <div className="hero">
 
             <h1 className="hero-title">Alperen Kabadayı</h1>
@@ -18,9 +18,13 @@ const Home = ({ posts }) => (
              
       <div className="hero-social-links">
 
-              <Link href="hakkımda">
+              <Link href="alperenkabadayi.com/Hakkımda">
                     <a className="social-link">Hakkımda</a>
                 </Link>   
+
+                <Link href="https://github.com/alperenkbd">
+                    <a className="social-link">GitHub</a>
+                </Link> 
 
         <Link href="https://www.twitter.com/alperenkbd06">
           <a className="social-link">Twitter</a>
@@ -30,10 +34,14 @@ const Home = ({ posts }) => (
           <a className="social-link">LinkedIn</a>
         </Link>
       </div>
-    </div>
+        </div>
+   
+        {posts.map(post => (
 
-    {posts.map(post => (
-      <div className="blog">
+            <div className="blog">
+                <div className="blog-issue">
+                    {post.issue}</div>
+
         <h2 className="blog-title">
           <Link href={post.slug}>
             <a className="blog-title-link">{post.title}</a>
@@ -51,19 +59,33 @@ const Home = ({ posts }) => (
         max-width: 650px;
         width: 100%;
         margin: 0 auto;
-        background-color:fffff0;
+        border:5px;
+        
       }
+    
+        .blog-issue{
+        color:red;
+        border:1px solid black;
+        margin: 12px 0 48px 0;
+        text-align: center;
+        
+        }
 
       .hero {
         text-align: center;
-        margin: 96px 0;
+        margin: 96px 0px;
+        padding:15px;
+        border-style:dotted;
+        border-width:10px;
+        border-color:#00008B;
+        background-color:#00FF7F;
       }
-
+        
+      
       .social-link {
         
-        margin-right: 8px;
+        margin-right: 15px;
         border: 1px solid black;
-        
 	    background-color: white;
       }
 
@@ -72,6 +94,9 @@ const Home = ({ posts }) => (
       .hero-title {
         font-size: 48px;
       }
+    
+
+      
 
       .blog-date {
         text-align: right;
@@ -83,6 +108,8 @@ const Home = ({ posts }) => (
         color: #35459e;
         text-decoration: none;
       }
+
+        
     `}</style>
   </div>
 );
