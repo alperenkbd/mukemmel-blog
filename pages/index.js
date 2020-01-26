@@ -90,8 +90,8 @@ const Home = ({ posts }) => (
         padding:40px;
         border-style:dotted;
         border-width:10px;
-        border-color:#00008B;
-        background-color:#00FF7F;
+        border-color:white;
+        background-color:#00008B;
       }
         
       
