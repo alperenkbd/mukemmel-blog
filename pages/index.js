@@ -5,6 +5,7 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 
 const Home = ({ posts }) => (
+    
   <div className="container">
     <Head>
       <title>Alperen Kabadayı</title>
@@ -45,36 +46,48 @@ const Home = ({ posts }) => (
         <h2 className="blog-title">
           <Link href={post.slug}>
             <a className="blog-title-link">{post.title}</a>
+            
           </Link>
+
         </h2>
         <div className="blog-text">
           <ReactMarkdown source={post.details} />
+             <Link href={post.slug}>
+          <a className="blog-continue">{post.continue}</a>
+                </Link>
         </div>
+
+             
+
         <div className="blog-date">{post.date}</div>
       </div>
-    ))}
+     
+        ))}
+    
+        <style jsx>{`
 
-    <style jsx>{`
       .container {
-        max-width: 650px;
+        
         width: 100%;
-        margin: 0 auto;
+        background-image: url(agac.jpg);
+        background-size: cover;
         border:5px;
         
       }
     
         .blog-issue{
-        color:red;
+        color:white;
         border:1px solid black;
         margin: 12px 0 48px 0;
         text-align: center;
-        
+        background-color: #00BFFF;
         }
 
       .hero {
+        width:800px;
         text-align: center;
-        margin: 96px 0px;
-        padding:15px;
+        margin: 0px auto;
+        padding:40px;
         border-style:dotted;
         border-width:10px;
         border-color:#00008B;
@@ -87,29 +100,45 @@ const Home = ({ posts }) => (
         margin-right: 15px;
         border: 1px solid black;
 	    background-color: white;
+        color:blue;
       }
 
      
 
       .hero-title {
         font-size: 48px;
+        
       }
     
-
+        .blog{
+        margin: 0 auto;
+        max-width: 800px;
+        background-color: #E6E6FA;
+        }
       
 
       .blog-date {
         text-align: right;
-        color: #cccccc;
+        color: #90EE90;
         margin: 12px 0 48px 0;
       }
 
       a {
-        color: #35459e;
+        color: white;
         text-decoration: none;
       }
+       
+        .blog-title{
+         padding:15px;
+         background-image: url(arkaplan2.jpg);	
+         
+        }       
+            
+        .blog-continue{
 
-        
+        color:#1E90FF;
+
+        }
     `}</style>
   </div>
 );
