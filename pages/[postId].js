@@ -14,15 +14,25 @@ const BlogPost = ({ post }) => (
     <div className="hero">
       <h1 className="hero-title">Alperen Kabadayı</h1>
       <div className="hero-social-links">
-        <Link href="https://www.twitter.com/alperenkbd06">
-          <a className="social-link">Twitter</a>
-        </Link>
+                <Link href="alperenkabadayi.com/Hakkimda">
+                    <a className="social-link"><img src='user.png' width="32" height="32" /></a>
+                </Link>
+
+                <Link href="https://www.twitter.com/alperenkbd06">
+                    <a className="social-link"><img src='twitter.png' width="32" height="32" /></a>
+                </Link>
+
+                <Link href="https://www.facebook.com/profile.php?id=100021320052185">
+                    <a className="social-link"><img src='facebook.png' width="32" height="32" /></a>
+                </Link>
+
                 <Link href="https://www.linkedin.com/in/alperen-kabaday%C4%B1-3300b2161/">
-          <a className="social-link">LinkedIn</a>
-        </Link>
-        <Link href="https://www.instagram.com/selmankahyax/?hl=en">
-          <a className="social-link">Instagram</a>
-        </Link>
+                    <a className="social-link"><img src='linkedin.png' width="32" height="32" /></a>
+                </Link>
+
+                <Link href="https://github.com/alperenkbd">
+                    <a className="social-link"><img src='cat.png' width="32" height="32" /></a>
+                </Link> 
       </div>
     </div>
 

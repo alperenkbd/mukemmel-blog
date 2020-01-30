@@ -19,21 +19,25 @@ const Home = ({ posts }) => (
              
       <div className="hero-social-links">
 
-              <Link href="alperenkabadayi.com/Hakkımda">
-                    <a className="social-link">Hakkımda</a>
+              <Link href="alperenkabadayi.com/Hakkimda">
+                    <a className="social-link"><img src='user.png' width="32" height="32" /></a>
                 </Link>   
-
-                <Link href="https://github.com/alperenkbd">
-                    <a className="social-link">GitHub</a>
-                </Link> 
-
+        
         <Link href="https://www.twitter.com/alperenkbd06">
-          <a className="social-link">Twitter</a>
+          <a className="social-link"><img src='twitter.png' width="32" height="32" /></a>
+         </Link>
+
+                <Link href="https://www.facebook.com/profile.php?id=100021320052185">
+          <a className="social-link"><img src='facebook.png' width="32" height="32" /></a>
          </Link>
 
         <Link href="https://www.linkedin.com/in/alperen-kabaday%C4%B1-3300b2161/">
-          <a className="social-link">LinkedIn</a>
+          <a className="social-link"><img src='linkedin.png' width="32" height="32" /></a>
         </Link>
+
+        <Link href="https://github.com/alperenkbd">
+           <a className="social-link"><img src='cat.png' width="32" height="32" /></a>
+         </Link> 
       </div>
         </div>
    
@@ -60,10 +64,15 @@ const Home = ({ posts }) => (
              
 
         <div className="blog-date">{post.date}</div>
-      </div>
-     
+                
+            </div>
+            
         ))}
-    
+
+        <div className="sonraki">
+            <a href="#" class="next">sonraki sayfa &raquo;</a>
+        </div>
+
         <style jsx>{`
 
       .container {
@@ -80,7 +89,7 @@ const Home = ({ posts }) => (
         border:1px solid black;
         margin: 12px 0 48px 0;
         text-align: center;
-        background-color: #00BFFF;
+        background-color: #20B2AA;
         }
 
       .hero {
@@ -90,30 +99,29 @@ const Home = ({ posts }) => (
         padding:40px;
         border-style:dotted;
         border-width:10px;
-        border-color:white;
-        background-color:#00008B;
+        border-color:black;
+        background-color: #2F4F4F;
       }
         
       
-      .social-link {
-        
-        margin-right: 15px;
-        border: 1px solid black;
-	    background-color: white;
-        color:blue;
-      }
-
-     
+      
 
       .hero-title {
         font-size: 48px;
-        
+        color:black;
       }
+
+        
+        .social-link{
     
+        margin-right:15px;
+
+        }
+
         .blog{
         margin: 0 auto;
         max-width: 800px;
-        background-color: #E6E6FA;
+        background-color: #ADD8E6;
         }
       
 
@@ -126,6 +134,7 @@ const Home = ({ posts }) => (
       a {
         color: white;
         text-decoration: none;
+        
       }
        
         .blog-title{
@@ -139,6 +148,13 @@ const Home = ({ posts }) => (
         color:#1E90FF;
 
         }
+        .sonraki{
+
+        color: white;
+        text-align:center;
+        }
+        
+        
     `}</style>
   </div>
 );
