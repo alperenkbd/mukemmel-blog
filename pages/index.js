@@ -19,7 +19,7 @@ const Home = ({ posts }) => (
              
       <div className="hero-social-links">
 
-              <Link href="alperenkabadayi.com/Hakkimda">
+              <Link href="yazım aşamasında">
                     <a className="social-link"><img src='user.png' width="32" height="32" /></a>
                 </Link>   
         
