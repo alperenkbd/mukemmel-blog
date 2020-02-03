@@ -161,7 +161,7 @@ const Home = ({ posts }) => (
 
 Home.getInitialProps = async ({ req }) => {
   // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
-    const res = await fetch("http://alperenkabadayi.com/api/posts");
+    const res = await fetch("http://alperenkabadayi/api/posts");
   const json = await res.json();
   return { posts: json.posts };
 };
