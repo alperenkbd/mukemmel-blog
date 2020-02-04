@@ -1,11 +1,11 @@
 {
-  "name": "mukemmel-blog",
+  "name": "alperenkabadayi",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "npm run build && env NODE_ENV=production node app.js -p $PORT"   //"start": "next start -p $PORT"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
