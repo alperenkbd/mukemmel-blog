@@ -5,18 +5,6 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 
 
-Home.getInitialProps = async ({ req }) => {
-    // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
-    const res = await fetch("http://alperenkabadayi.com/api/posts");
-    const json = await res.json();
-    return { posts: json.posts };
-};
-
-export default Home;
-
-
-
-
 
 const Home = ({ posts }) => (
     
@@ -172,5 +160,19 @@ const Home = ({ posts }) => (
     `}</style>
   </div>
 );
+
+
+
+Home.getInitialProps = async ({ req }) => {
+    // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
+    const res = await fetch("https://alperenkabadayi.herokuapp.com/api/posts");
+    const json = await res.json();
+    return { posts: json.posts };
+};
+
+export default Home;
+
+
+
 
 
