@@ -57,7 +57,7 @@ const Home = ({ posts }) => (
 
         </h2>
         <div className="blog-text">
-          <ReactMarkdown source={post.details} />
+          <ReactMarkdown source={post.intro} />
              <Link href={post.slug}>
           <a className="blog-continue">{post.continue}</a>
                 </Link>
@@ -165,7 +165,7 @@ const Home = ({ posts }) => (
 
 Home.getInitialProps = async ({ req }) => {
     // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
-    const res = await fetch("https://alperenkabadayi.herokuapp.com/api/posts");
+    const res = await fetch("http://alperenkabadayi.herokuapp.com/api/posts");
     const json = await res.json();
     return { posts: json.posts };
 };

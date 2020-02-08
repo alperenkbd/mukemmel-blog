@@ -38,9 +38,9 @@ const BlogPost = ({ post }) => (
 
     <div className="blog">
       <h2 className="blog-title">
-        <Link href="/test">
+        
           <a className="blog-title-link">{post.title}</a>
-        </Link>
+        
       </h2>
       <div className="blog-text">
         <ReactMarkdown source={post.details} />
@@ -83,7 +83,7 @@ const BlogPost = ({ post }) => (
 
 BlogPost.getInitialProps = async ({ req, query }) => {
   // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
-    const res = await fetch(`https://alperenkabadayi.herokuapp.com/api/post/${query.postId}`);
+    const res = await fetch(` http://alperenkabadayi.herokuapp.com/api/post/${query.postId} `);  
   const json = await res.json();
   return { post: json.post };
 };
