@@ -17,11 +17,11 @@ const Home = ({ posts }) => (
     <div className="hero">
 
             <h1 className="hero-title">Alperen Kabadayı</h1>
-
+            <h3 className="hero-title-under">Indie Game Developer / CS Student</h3>
              
       <div className="hero-social-links">
 
-              <Link href="yazım aşamasında">
+              <Link href="#hakkimda">
                     <a className="social-link"><img src='user.png' width="32" height="32" /></a>
                 </Link>   
         
@@ -72,15 +72,14 @@ const Home = ({ posts }) => (
         ))}
 
         <div className="sonraki">
-            <a href="#" class="next">sonraki sayfa &raquo;</a>
+            <a href="#" class="next">sonraki sayfa</a>
         </div>
-
+<div className="created">Copyright © Alperen Kabadayı </div>
         <style jsx>{`
 
       .container {
         
         width: 100%;
-        background-image: url(agac.jpg);
         background-size: cover;
         border:5px;
         
@@ -95,14 +94,12 @@ const Home = ({ posts }) => (
         }
 
       .hero {
-        width:800px;
+        max-width:800px;
         text-align: center;
+        font-family:sans-serif;
         margin: 0px auto;
         padding:40px;
-        border-style:dotted;
-        border-width:10px;
-        border-color:black;
-        background-color: #2F4F4F;
+        
       }
         
       
@@ -113,7 +110,11 @@ const Home = ({ posts }) => (
         color:black;
       }
 
-        
+        .hero-title-under{
+        font-family:courier new;
+        color:	#DCDCDC;
+
+        }
         .social-link{
     
         margin-right:15px;
@@ -124,13 +125,15 @@ const Home = ({ posts }) => (
         margin: 0 auto;
         max-width: 800px;
         background-color: #ADD8E6;
+        font-family:verdana;
         }
       
 
       .blog-date {
         text-align: right;
-        color: #90EE90;
-        margin: 12px 0 48px 0;
+        color: #778899;
+        margin: 12px 8px 48px 0;
+        padding-bottom:5px;
       }
 
       a {
@@ -141,23 +144,32 @@ const Home = ({ posts }) => (
        
         .blog-title{
          padding:15px;
-         background-image: url(arkaplan2.jpg);	
+         font-family:sans-serif;
+         background-color:black;
          
         }       
+
+        .blog-text{
+            padding-left:8px;
+
+
+        }
             
         .blog-continue{
 
         color:#1E90FF;
+        margin-left:8px;
 
         }
         .sonraki{
 
-        color: white;
+        color: black;
         text-align:center;
         }
-        
+
         
     `}</style>
+        
   </div>
 );
 
@@ -165,7 +177,7 @@ const Home = ({ posts }) => (
 
 Home.getInitialProps = async ({ req }) => {
     // TODO: aşağıdaki satırda bulunan adresi kendi sunucu adresinle değiştirmelisin
-    const res = await fetch("http://alperenkabadayi.herokuapp.com/api/posts");
+    const res = await fetch("http://localhost:3000/api/posts");
     const json = await res.json();
     return { posts: json.posts };
 };

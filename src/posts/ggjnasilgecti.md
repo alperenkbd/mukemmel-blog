@@ -1,4 +1,6 @@
-   Öncelikle bilmeyenler için biraz Global Game Jam hakkında konuşalım. 
+# GLOBAL GAME JAM 2020 NASIL GEÇTİ ?   
+
+ Öncelikle bilmeyenler için biraz Global Game Jam hakkında konuşalım. 
 GGJ'nin kendi websitesindeki tanımdan yola çıkarsak "Get together and create 
 games in one weekend in hundreds of locations worldwide". Yani amacımız dünyanın
 farklı noktalarında, belirlenen tarihlerde(haftasonu) , 48 saat içerisinde, belirlenen
@@ -8,7 +10,7 @@ Yani; inovasyon yap, işbirliği yap ve deneyimle.Çok farklı lokasyonlardan ç
 düşünce şekillerine sahip senaristler, tasarımcılar, geliştiriciler gibi alanlarda kendisini 
 geliştirmek ve ürün ortaya çıkarmak isteyen insanlarla 48 saat süresince oyun geliştiriyorsunuz.
 Gerçekten çok güzel bir deneyim.
- 
+
    GGJ 20'ye gelirsek; Ben, Jam site'nı Innopark Konya'nın üstlendiği, sponsorluğunu Konya Büyükşehir
 Belediyesi'nin gerçekleştirdiği Kılıçarslan Gençlik Merkezi'nde katıldım. Katıldım diyorum çünkü
 bir ekibim yoktu. Fakat çok şükür orda gerçekten oyun geliştirmeye gönül vermiş 10 kişiden oluşan uyumlu bir
