@@ -12,6 +12,7 @@ const Home = ({ posts }) => (
     <Head>
       <title>Alperen Kabadayı</title>
       <link rel="icon" href="/favicon.ico" />
+            <script data-ad-client="ca-pub-8610763587305349" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Head>
    
     <div className="hero">
