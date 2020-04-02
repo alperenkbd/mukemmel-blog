@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![](/mukemmel-blog/public/filmresim/phone-booth.jpg)
+![photo-booth](http://alperenkabadayi.herokuapp.com/mukemmel-blog/public/filmresim/phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
