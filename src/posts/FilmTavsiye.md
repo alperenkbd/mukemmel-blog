@@ -1,3 +1,7 @@
+---
+typora-root-url: http://alperenkabadayi.com\mukemmel-blog
+---
+
 # İzlemeyenin Çok Şey Kaçıracağı 18 Film
 
 
@@ -8,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-<img src="/public/filmresim/phone-booth.jpg"/>
+![](/../../../../../public/filmresim/phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
