@@ -1,7 +1,3 @@
----
-typora-root-url: ..\..\..
----
-
 # İzlemeyenin Çok Şey Kaçıracağı 18 Film
 
 
@@ -12,7 +8,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![photo-booth](https://github.com/alperenkbd/mukemmel-blog/blob/master/public/filmresim/Apokalipto.jpg)
+<img src="/public/filmresim/phone-booth.jpg"/>
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
