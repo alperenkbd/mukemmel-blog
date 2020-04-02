@@ -1,6 +1,19 @@
 export const getPosts = () => {
   return [
-    {
+
+
+      {
+          issue: "sinema",
+          title: "İzlemeyenlerin Çok Şey Kaçıracağı 18 Film",
+          intro: "Kesinlikle izlenmesini tavsiye ettiğim 18 tane filmi sizin için derledim...",
+          slug: "FilmTavsiye",
+          details: require("./posts/FilmTavsiye.md").default,
+          continue: "devam etmek icin tıklayın...",
+          date: "02 Nisan 2020"
+      },
+
+
+      {
       issue: "oyun geliştirme",
       title: "GLOBAL GAME JAM 2020 NASIL GEÇTİ?",
       slug: "ggjnasilgecti",
@@ -9,18 +22,8 @@ export const getPosts = () => {
       continue:"devam etmek icin tıklayın...",
       date: "08 Şubat 2020"
       },
-
-     
-        
-      {
-          issue: "yazılım",
-          title: "YAZILIM HAKKINDA 2",
-          intro:"içerik hazırlanıyor...",
-          slug: "yazilim-2",
-          details: require("./posts/yazilim-2.md").default,
-          continue: "devam etmek icin tıklayın...",
-          date: "16 Ocak 2020"
-      },
+    
+    
     {
       issue: "kişisel gelişim",
       title: "KİŞİSEL GELİŞİM 1",

@@ -43,6 +43,10 @@ const BlogPost = ({ post }) => (
       </div>
             <div className="blog-date">{post.date}</div>
 
+            <div className="geri-dön">
+                <a href="http://www.alperenkabadayi.com" class="prev">geri dönmek için tıklayın</a>
+            </div>
+
     </div>
     <style jsx>{`
       .container {
