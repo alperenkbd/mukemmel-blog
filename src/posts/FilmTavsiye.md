@@ -1,7 +1,3 @@
----
-typora-root-url: ..\..\public\filmresim
----
-
 # İzlemeyenin Çok Şey Kaçıracağı 18 Film
 
 
@@ -12,7 +8,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](public/filmresim/phone-booth.jpg)
+![phone-booth](mukemmel-blog/public/filmresim/phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
