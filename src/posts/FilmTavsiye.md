@@ -8,7 +8,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](http://alperenkabadayi.com\public\filmresim\phone-booth.jpeg)
+<img src="public/filmresim/phone-booth.jpeg" />
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
