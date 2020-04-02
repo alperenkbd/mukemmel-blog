@@ -1,5 +1,5 @@
 ---
-typora-root-url: ..\..\public\filmresim
+typora-root-url: ..\..
 ---
 
 # İzlemeyenin Çok Şey Kaçıracağı 18 Film
@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](/mukemmel-blog/public/filmresim/phone-booth.jpg)
+![](/public/filmresim/phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
@@ -24,7 +24,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-![babamveoglum](http://alperenkabadayi.com\public\filmresim\babamveoglum.jpg)
+![](/public/filmresim/babamveoglum.jpg)
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
