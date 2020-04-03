@@ -87,6 +87,15 @@ const BlogPost = ({ post }) => (
 
         }
 
+        .blog-text{
+            
+        max-width: 650px;
+        width: 100%;
+        margin: 0 auto;
+        background-size: contain;
+
+        }
+
       .blog-date {
         text-align: right;
         color: #cccccc;
