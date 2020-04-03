@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg" />
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg" width=100% height=auto align=center>
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
@@ -20,11 +20,11 @@ Stu Shepard,parlak bir reklamcıdır. Sadece özel görüşmelerini belirlediği
 
 fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
-https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg
+
 
 ### 17. Babam Ve Oğlum, 2005
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg" />
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg" width=100% height=auto align=center>
 
 
 
