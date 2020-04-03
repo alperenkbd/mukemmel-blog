@@ -1,7 +1,3 @@
----
-typora-root-url: ..\..\public\filmresim
----
-
 
 
 
@@ -16,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](/phone-booth.jpg)
+![phone-booth](public\phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
@@ -28,7 +24,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-![](/public/filmresim/babamveoglum.jpg)
+![](C:\Users\ASUS\Documents\GitHub\mukemmel-blog\public\filmresim\babamveoglum.jpg)
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
