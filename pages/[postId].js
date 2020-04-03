@@ -53,6 +53,7 @@ const BlogPost = ({ post }) => (
         max-width: 650px;
         width: 100%;
         margin: 0 auto;
+        background-size: contain;
       }
 
       .hero {

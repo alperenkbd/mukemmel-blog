@@ -72,7 +72,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=i4noiCRJRoE)
 
 ### 13. RED, 2010
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/red.jpg" alt="red" style="zoom:150%;" />
+![RED](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/red.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
 
@@ -84,7 +84,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=-JZ_moituIo)
 
 ### 12. Apokalipto, 2006
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Apokalipto.jpg" alt="Apokalipto" style="zoom:150%;" />
+![apokalipto](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Apokalipto.jpg)
 
 ​	[IMDb: 7.8](https://www.imdb.com/title/tt0472043/?ref_=fn_al_tt_1)
 
@@ -156,7 +156,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=znmZoVkCjpI)
 
 ### 6. Kanlı Elmas, 2006
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/kanlı-elmas.jpg" alt="kanlı-elmas" style="zoom:150%;" />
+![blood-diamond](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/kanlı-elmas.jpg)
 
 [IMDb: 8.0](https://www.imdb.com/title/tt0450259/?ref_=nv_sr_srsg_0)
 
@@ -180,7 +180,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=QGu6InUcdUY&t=49s)
 
 ### 4. Solace, 2015
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/solace.jpg" alt="solace" style="zoom:150%;" />
+![solace](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/solace.jpg)
 
 [IMDb: 6.4](https://www.imdb.com/title/tt1291570/?ref_=nv_sr_srsg_3)
 
