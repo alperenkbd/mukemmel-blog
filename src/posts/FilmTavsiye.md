@@ -24,7 +24,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-![](C:\Users\ASUS\Documents\GitHub\mukemmel-blog\public\filmresim\babamveoglum.jpg)
+![babamveoglum](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg)
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
@@ -36,7 +36,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=UQoaqI_WnWM)
 
 ### 16. Who Am I ? , 2014
 
-![whoami](http://alperenkabadayi.com\public\filmresim\whoami.jpg)
+![whoami](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/whoami.jpg)
 
 [IMDb: 7.6](https://www.imdb.com/title/tt3042408/?ref_=fn_al_tt_1)
 
@@ -48,7 +48,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=5vnjheCqRIs)
 
 ### 15. Forest Gump, 1994
 
-![Forrest-Gump](http://alperenkabadayi.com\public\filmresim\Forrest-Gump.jpg)
+![Forrest-Gump](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Forrest-Gump.jpg)
 
 [IMDb: 8.8](https://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_1)
 
@@ -60,7 +60,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=bLvqoHBptjg)
 
 ### 14. Buz Devri, 2002
 
-![iceage](http://alperenkabadayi.com\public\filmresim\iceage.jpg)
+![iceage](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/iceage.jpg)
 
 [IMDb: 7.5](https://www.imdb.com/title/tt0268380/?ref_=fn_al_tt_1)
 
@@ -72,7 +72,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=i4noiCRJRoE)
 
 ### 13. RED, 2010
 
-![red](http://alperenkabadayi.com\public\filmresim\red.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/red.jpg" alt="red" style="zoom:150%;" />
 
 [IMDb: 7.0](https://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
 
@@ -84,7 +84,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=-JZ_moituIo)
 
 ### 12. Apokalipto, 2006
 
-![Apokalipto](http://alperenkabadayi.com\public\filmresim\Apokalipto.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Apokalipto.jpg" alt="Apokalipto" style="zoom:150%;" />
 
 ​	[IMDb: 7.8](https://www.imdb.com/title/tt0472043/?ref_=fn_al_tt_1)
 
@@ -96,7 +96,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=ngWBddVNVZs)
 
 ### 11. Wild Card, 2015
 
-![wildcard](http://alperenkabadayi.com\public\filmresim\wildcard.jpg)
+![wildcard](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/wildcard.jpg)
 
 [IMDb: 5.6](https://www.imdb.com/title/tt2231253/?ref_=nv_sr_srsg_0)
 
@@ -108,7 +108,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7fJGbTfFPkM)
 
 ### 10. Marslı, 2015
 
-![marslı](http://alperenkabadayi.com\public\filmresim\marslı.jpg)
+![marslı](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/marslı.jpg))
 
 [IMDb: 8.0](https://www.imdb.com/title/tt3659388/?ref_=nv_sr_srsg_0)
 
@@ -120,7 +120,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=ej3ioOneTy8)
 
 ### 9. The Mechanic, 2011
 
-![the-mechanic](http://alperenkabadayi.com\public\filmresim\the-mechanic.jpg)
+![the-mechanic](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/the-mechanic.jpg)
 
 [IMDb: 6.6](https://www.imdb.com/title/tt0472399/?ref_=vp_back)
 
@@ -132,7 +132,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=CMklQNn0OH0)
 
 ### 8. Yıldızlararası, 2014
 
-![yıldızlararsı](http://alperenkabadayi.com\public\filmresim\yıldızlararsı.jpg)
+![yıldızlararsı](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/yıldızlararsı.jpg))
 
 [IMDb: 8.6](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0)
 
@@ -144,7 +144,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=zSWdZVtXT7E)
 
 ### 7.  Se7en,  1995
 
-![se7en](http://alperenkabadayi.com\public\filmresim\se7en.jpg)
+![se7en](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/se7en.jpg)
 
 [IMDb: 8.6](https://www.imdb.com/title/tt0114369/?ref_=fn_al_tt_1)
 
@@ -156,7 +156,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=znmZoVkCjpI)
 
 ### 6. Kanlı Elmas, 2006
 
-![kanlı-elmas](http://alperenkabadayi.com\public\filmresim\kanlı-elmas.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/kanlı-elmas.jpg" alt="kanlı-elmas" style="zoom:150%;" />
 
 [IMDb: 8.0](https://www.imdb.com/title/tt0450259/?ref_=nv_sr_srsg_0)
 
@@ -168,7 +168,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=yknIZsvQjG4)
 
 ### 5. Parker, 2013
 
-![parker](http://alperenkabadayi.com\public\filmresim\parker.jpg)
+![parker](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/parker.jpg)
 
 [IMDb: 6.2](https://www.imdb.com/title/tt1904996/?ref_=fn_al_tt_1)
 
@@ -180,7 +180,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=QGu6InUcdUY&t=49s)
 
 ### 4. Solace, 2015
 
-![solace](http://alperenkabadayi.com\public\filmresim\solace.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/solace.jpg" alt="solace" style="zoom:150%;" />
 
 [IMDb: 6.4](https://www.imdb.com/title/tt1291570/?ref_=nv_sr_srsg_3)
 
@@ -192,7 +192,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=sk0zmmokde4)
 
 ### 3. Zincirsiz, 2012
 
-![zincirsiz](http://alperenkabadayi.com\public\filmresim\zincirsiz.jpg)
+![zincirsiz](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/zincirsiz.jpg)
 
 [IMDb: 8.4](https://www.imdb.com/title/tt1853728/?ref_=nv_sr_srsg_0)
 
@@ -204,7 +204,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=_iH0UBYDI4g)
 
 ### 2. Yeşil Yol, 1999
 
-![greenmile](http://alperenkabadayi.com\public\filmresim\greenmile.jpg)
+![greenmile](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/greenmile.jpg)
 
 [IMDb: 8.6](https://www.imdb.com/title/tt0120689/?ref_=fn_al_tt_2)
 
@@ -216,7 +216,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=Ki4haFrqSrw)
 
 ### 1. The Godfather, 1972
 
-![thegodfather](http://alperenkabadayi.com\public\filmresim\thegodfather.jpg)
+![thegodfather](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/thegodfather.jpg)
 
 [IMDb: 9.2](https://www.imdb.com/title/tt0068646/?ref_=nv_sr_srsg_0)
 
