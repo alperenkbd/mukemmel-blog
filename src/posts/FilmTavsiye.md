@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg" />
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
@@ -20,11 +20,13 @@ Stu Shepard,parlak bir reklamcıdır. Sadece özel görüşmelerini belirlediği
 
 fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
-
+https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg
 
 ### 17. Babam Ve Oğlum, 2005
 
-![babamveoglum](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg" />
+
+
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
@@ -56,11 +58,11 @@ Forrest Gump, düşük I.Q. sahibi genç bir adamdır. Jenny ile tanıştığın
 
 fragman için [tıklayın](https://www.youtube.com/watch?v=bLvqoHBptjg)
 
-### 
+ 
 
 ### 14. Buz Devri, 2002
 
-![iceage](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/iceage.jpg)
+![iceage](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/iceage1.jpg)
 
 [IMDb: 7.5](https://www.imdb.com/title/tt0268380/?ref_=fn_al_tt_1)
 

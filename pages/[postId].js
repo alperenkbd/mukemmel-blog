@@ -62,7 +62,13 @@ const BlogPost = ({ post }) => (
       }
 
         
-    div img { max-width: 600px; }
+      img {
+
+     max-width: 100%;
+     height: auto;
+  
+    }
+
 
       .social-link {
         margin-right: 8px;
