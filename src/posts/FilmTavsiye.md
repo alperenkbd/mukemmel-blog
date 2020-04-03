@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-<center>![photo-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)</center>
+![photo-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)
 
 [IMDb: 7.0](https://www.imdb.com/title/tt0183649/?ref_=fn_al_tt_1) 	
 
@@ -24,9 +24,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-<center>![babamveoglum](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg)</center>
-
-
+![babamveoglum](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg)
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
