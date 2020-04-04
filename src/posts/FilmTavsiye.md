@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg" class="responsive">
+![phone-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)
 
 
 
@@ -26,7 +26,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg" class="responsive">
+![]()
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
@@ -38,7 +38,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=UQoaqI_WnWM)
 
 ### 16. Who Am I ? , 2014
 
-<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/whoami.jpg" class="responsive">
+![whoami](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/whoami.jpg)
 
 [IMDb: 7.6](https://www.imdb.com/title/tt3042408/?ref_=fn_al_tt_1)
 
@@ -50,7 +50,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=5vnjheCqRIs)
 
 ### 15. Forest Gump, 1994
 
-<img src=" https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Forrest-Gump.jpg" alt="Girl in a jacket" style="width:600px;height:300px;">
+![forestgump](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/Forrest-Gump.jpg)
 
 [IMDb: 8.8](https://www.imdb.com/title/tt0109830/?ref_=fn_al_tt_1)
 
