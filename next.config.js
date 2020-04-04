@@ -8,3 +8,9 @@ module.exports = {
     return config;
   }
 };
+
+export default {
+    plugins: [
+        { src: '~plugins/ga.js', mode: 'client' }
+    ]
+}
