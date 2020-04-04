@@ -12,7 +12,9 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)
+![phone-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg) 
+
+
 
 
 
@@ -225,3 +227,15 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=Ki4haFrqSrw)
 Baba, 40’lar ve 50’lerin Amerika’sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Don Corleone’nin kızı Connie’nin düğününde, ailenin en küçük oğlu ve bir savaş gazisi olan Michael babasıyla barışır. Bir suikast girişimi, Don’u artık işleri yönetemeyecek duruma düşürünce, ailenin başına Michael ve ağabeyi Sonny geçer. Danışmanları Tom Hagen’in de yardımlarıyla diğer ailelere savaş açan Corleone ailesi, eski moda yöntemleri de değiştirmeye başlar.
 
 fragman için [tıklayın](https://www.youtube.com/watch?v=sY1S34973zA)
+
+<style>   
+    img{
+        max-width: 650px;
+        width:100%;
+        height:auto;
+    }
+</style>
+​        
+
+
+   
