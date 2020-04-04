@@ -11,19 +11,19 @@ const Home = ({ posts }) => (
   <div className="container">
         <Head>
 
-            
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162642938-1"></script>
+      <title>Alperen Kabadayı</title>
+      <link rel="icon" href="/favicon.ico" />
+            <script data-ad-client="ca-pub-8610763587305349" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162642938-1"></script>
             <script>
                 window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments); }
                 gtag('js', new Date());
               
                 gtag('config', 'UA-162642938-1');
-            </script>
+</script>
 
-      <title>Alperen Kabadayı</title>
-      <link rel="icon" href="/favicon.ico" />
-            <script data-ad-client="ca-pub-8610763587305349" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Head>
    
     <div className="hero">
