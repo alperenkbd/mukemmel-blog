@@ -54,6 +54,7 @@ const BlogPost = ({ post }) => (
         width: 100%;
         margin: 0 auto;
         background-size: contain;
+        
       }
 
       .hero {
@@ -61,13 +62,14 @@ const BlogPost = ({ post }) => (
         margin: 96px 0;
       }
 
-        
-      img {
+       .p img{
 
-     max-width: 100%;
-     height: auto;
-  
-    }
+        max-width: 650px;
+        width: 100%;
+        }
+
+      
+   
 
 
       .social-link {
