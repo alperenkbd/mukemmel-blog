@@ -228,14 +228,6 @@ Baba, 40’lar ve 50’lerin Amerika’sında, bir İtalyan mafya ailesinin dest
 
 fragman için [tıklayın](https://www.youtube.com/watch?v=sY1S34973zA)
 
-<style>   
-    img{
-        max-width: 650px;
-        width:100%;
-        height:auto;
-    }
-</style>
 ​        
 
 
-   
