@@ -26,7 +26,7 @@ fragman için [tıklayın](https://www.youtube.com/watch?v=7q28Uwxh1Mo)
 
 ### 17. Babam Ve Oğlum, 2005
 
-![]()
+![babamveoglum](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/babamveoglum.jpg)
 
 [IMDb: 8.3](https://www.imdb.com/title/tt0476735/?ref_=fn_al_tt_1)
 
