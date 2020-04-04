@@ -3,14 +3,15 @@ module.exports = {
     config.module.rules.push({
       test: /\.md$/,
       use: "raw-loader"
-    });
+      });
+
+      {
+          plugins: [
+              { src: '~plugins/ga.js', mode: 'client' }
+          ]
+      }
 
     return config;
   }
 };
 
-export default {
-    plugins: [
-        { src: '~plugins/ga.js', mode: 'client' }
-    ]
-}
