@@ -21,26 +21,6 @@ export const getPosts = () => {
       details: require("./posts/ggjnasilgecti.md").default,
       continue:"devam etmek icin tıklayın...",
       date: "08 Şubat 2020"
-      },
-    
-    
-    {
-      issue: "kişisel gelişim",
-      title: "KİŞİSEL GELİŞİM 1",
-      intro:"içerik hazırlanıyor...",
-      slug: "kg-1",
-      details: require("./posts/ornek-yazi.md").default,
-      continue:"devam etmek icin tıklayın...",
-      date: "3 Aralık 2019"
-    },
-    {
-      issue: "fizik",
-      title: "FİZİK HAKKINDA",
-      intro:"içerik hazırlanıyor...",
-      slug: "fizikhk",
-      details: require("./posts/merhaba.md").default,
-      continue:"devam etmek icin tıklayın...",
-      date: "1 Aralık 2019"
-    }
+      }
   ];
 };
