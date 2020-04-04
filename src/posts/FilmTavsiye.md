@@ -12,7 +12,7 @@ kaynak:http://www.beyazperde.com/
 
 ### 18. Telefon kulübesi, 2002
 
-![phone-booth](https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg)
+<img src="https://raw.githubusercontent.com/alperenkbd/mukemmel-blog/master/public/phone-booth.jpg" alt="phone-booth" style="zoom: 33%;" />
 
 
 
