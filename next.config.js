@@ -5,12 +5,6 @@ module.exports = {
       use: "raw-loader"
       });
 
-      {
-          plugins: [
-              { src: '~plugins/ga.js', mode: 'client' }
-          ]
-      }
-
     return config;
   }
 };
